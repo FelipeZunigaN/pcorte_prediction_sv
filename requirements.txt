@@ -6,4 +6,5 @@ streamlit
 ipykernel
 seaborn
 openpyxl
+xgboost
 -e .
